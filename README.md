@@ -2,7 +2,7 @@
 
 #### By Monica Barboza
 
-#### A survey to choose which programming language to choose.
+#### A survey to choose which programming language to start with.
 
 ## Technologies Used
 
