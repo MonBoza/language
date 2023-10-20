@@ -3,6 +3,13 @@ body {
     font-family:Georgia, 'Times New Roman', Times, serif;
     color: #834fdd;
 }
+h1{
+        font-size: 45px;
+        text-align: center;
+        border-top: grey 8px solid;
+        border-bottom: grey 8px solid;
+}
+
 .hidden { 
    display: none;
 }

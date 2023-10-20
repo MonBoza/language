@@ -15,11 +15,13 @@ function langSelect(event){
     const vacationInput = document.getElementById("question5").value;
     if (careerInput === "developer"&& foodInput==="pizza" && bookInput==="fiction" && seasonInput==="summer" &&vacationInput==="hawaii"){
         document.getElementById("sharp").removeAttribute("class");
-    } else if (careerInput=== "Dev Ops" && foodInput==="sushi" && bookInput==="horror" && seasonInput==="winter" &&vacationInput==="spain") {
+    } else if (careerInput=== "dev Ops" && foodInput==="sushi" && bookInput==="horror" && seasonInput==="winter" &&vacationInput==="spain") {
     document.getElementById("swift").removeAttribute("class");
-     } else document.getElementById("ruby").removeAttribute("class");
-     console.log();
-
+    } else if (careerInput === "backend developer" && foodInput ==="pizza"&& bookInput==="mystery"&&seasonInput==="winter"&&vacationInput==="Italy"){
+    document.getElementById("swift").removeAttribute("class");
+    } else if (careerInput === "cyber security"&&foodInput==="pizza"&&bookInput==="fiction"&& seasonInput==="spring"&&vacationInput==="Mexico")
+        document.getElementById("sharp").removeAttribute("class");
+    else document.getElementById("ruby").removeAttribute("class");
 }
 
 window.addEventListener("load",function() {

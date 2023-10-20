@@ -21,7 +21,7 @@
 
 ## Known Bugs
 
-* Submit button still dose not function
+* Submit button still dose not function. ** I changed from radio form and updated some of the JavaScript and got it functions
 * 
 
 ## License
