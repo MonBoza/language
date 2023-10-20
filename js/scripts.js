@@ -4,7 +4,9 @@ function hideResults(){
     document.getElementById("sharp").setAttribute("class", "hidden");
   
 }
-
+function clearForm(){
+    document.getElementById("questions").reset("form");
+}
 function langSelect(event){
     hideResults();
     event.preventDefault();
@@ -19,9 +21,10 @@ function langSelect(event){
     document.getElementById("swift").removeAttribute("class");
     } else if (careerInput === "backend developer" && foodInput ==="pizza"&& bookInput==="mystery"&&seasonInput==="winter"&&vacationInput==="Italy"){
     document.getElementById("swift").removeAttribute("class");
-    } else if (careerInput === "cyber security"&&foodInput==="pizza"&&bookInput==="fiction"&& seasonInput==="spring"&&vacationInput==="Mexico")
+    } else if (careerInput === "cyber security"&&foodInput==="tacos"&&bookInput==="fiction"&& seasonInput==="spring"&&vacationInput==="Mexico")
         document.getElementById("sharp").removeAttribute("class");
     else document.getElementById("ruby").removeAttribute("class");
+    clearForm();
 }
 
 window.addEventListener("load",function() {

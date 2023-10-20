@@ -21,8 +21,10 @@
 
 ## Known Bugs
 
-* Submit button still dose not function. ** I changed from radio form and updated some of the JavaScript and got it functions
-* 
+* Submit button still dose not function. 
+  ** I changed from radio form and updated some of the JavaScript and got it functions
+* I cant answer the questions once they have already been answered.  
+   ** I found .reset() on stack overflow I tried it and it worked 
 
 ## License
 
