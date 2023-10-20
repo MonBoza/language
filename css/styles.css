@@ -1,5 +1,7 @@
 body {
-    background-color:darkcyan;
+    background-color:rgb(155, 223, 223);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #834fdd;
 }
 .hidden {
    display: none;
