@@ -18,12 +18,10 @@
 
 * Clone repo to your desktop https://github.com/MonBoza/language.git
 * 
-* 
-* 
 
 ## Known Bugs
 
-* 
+* Submit button still dose not function
 * 
 
 ## License
