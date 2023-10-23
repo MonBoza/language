@@ -2,7 +2,7 @@ function hideResults(){
     document.getElementById("swift").setAttribute("class", "hidden");
     document.getElementById("ruby").setAttribute("class", "hidden");
     document.getElementById("sharp").setAttribute("class", "hidden");
-  
+  //hides elements that are not chose by survey
 }
 function clearForm(){
     document.getElementById("questions").reset("form");

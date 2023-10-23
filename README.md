@@ -17,14 +17,12 @@
 ## Setup/Installation Requirements
 
 * Clone repo to your desktop https://github.com/MonBoza/language.git
-* 
+* Open with VS Code
 
 ## Known Bugs
 
 * Submit button still dose not function. 
-  ** I changed from radio form and updated some of the JavaScript and got it functions
-* I cant answer the questions once they have already been answered.  
-   ** I found .reset() on stack overflow I tried it and it worked 
+  ** I changed from radio form and updated some of the JavaScript and got it to function
 
 ## License
 
