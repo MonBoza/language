@@ -4,14 +4,14 @@ body {
     color: hsl(222, 70%, 67%);
 }
 
-form{
+form {
     margin-left: 50px;
     text-align:center
 }
-button{
+button {
     color: hsl(208, 66%, 68%);
 }
-h1{
+h1 {
         font-size: 45px;
         text-align: center;
         border-top: grey 8px solid;
@@ -21,7 +21,7 @@ h1{
 .hidden { 
    display: none;
 }
-img{
+img {
     height: auto;
     width: 200px;
 }
