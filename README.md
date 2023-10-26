@@ -13,6 +13,12 @@
 ## Description
 
  This browser application selects which programming language is suitable for their programming career. Users just fill out a quick survey and the language is selected for them.
+ * If you submit career choice = "developer", favorite season = "summer", favorite food = "pizza", favorite book genre = "fiction" vacation = "hawaii".
+  Your result should be "C#"
+ * Else if you submit career choice = "dev ops", favorite season = "winter", favorite food = "sushi", favorite book genre = "horror" and vacation = "spain"
+ Your result should be "SWIFT"
+ * Else your result should be "RUBY" 
+ * Try it out at http://monboza.github.io/language/
 
 ## Setup/Installation Requirements
 

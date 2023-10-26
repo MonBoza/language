@@ -12,10 +12,10 @@ button {
     color: hsl(208, 66%, 68%);
 }
 h1 {
-        font-size: 45px;
-        text-align: center;
-        border-top: grey 8px solid;
-        border-bottom: grey 8px solid;
+    font-size: 45px;
+    text-align: center;
+    border-top: grey 8px solid;
+    border-bottom: grey 8px solid;
 }
 
 .hidden { 
