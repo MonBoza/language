@@ -22,10 +22,12 @@
 
 ## Setup/Installation Requirements
 
-* Clone repository to your desktop: https://github.com/MonBoza/language.git
-* Open the project in your favorite code editor:
+* Open terminal or command prompt.
+* Clone the repository by running the following command to your desktop: 
+  git clone https://github.com/MonBoza/language.git
+* Open the project in your favorite code editor: 
 * Navigate to the to the bottom of the directory.
-* Open index.html
+* Open the index.html file.
 
 ## Known Bugs
 
@@ -44,4 +46,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 
 Email: MonBoza@gmail.com
-Copyright (c) 10/20/23  Monica Barboza
+Copyright (c) October 20, 2023  Monica Barboza

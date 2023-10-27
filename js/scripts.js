@@ -23,7 +23,9 @@ function langSelect(event) {
         document.getElementById("swift").removeAttribute("class");
     } else if (careerInput === "cyber security" && foodInput === "tacos" && bookInput === "fiction" && seasonInput === "spring" && vacationInput === "mexico") {
         document.getElementById("sharp").removeAttribute("class");
-    } else document.getElementById("ruby").removeAttribute("class");
+    } else {
+        document.getElementById("ruby").removeAttribute("class");
+    }
     clearForm();
 }
 

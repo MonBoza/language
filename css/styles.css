@@ -8,9 +8,11 @@ form {
     margin-left: 50px;
     text-align:center
 }
+
 button {
     color: hsl(208, 66%, 68%);
 }
+
 h1 {
     font-size: 45px;
     text-align: center;
@@ -21,6 +23,7 @@ h1 {
 .hidden { 
    display: none;
 }
+
 img {
     height: auto;
     width: 200px;
